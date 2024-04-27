@@ -31,8 +31,21 @@ python main.py --exp=<Experiment Name> --data_dir=<Data-Path> --json_list=<Json 
 # Evaluation
 Evaluating Swin UNETR
 ```bash
+
 python test.py --pretrained_dir=<Pretrained Model Path> --data_dir=<Data-Path> --exp_name=<Experiment Name> \
 --json_list=<Json List Path> --pretrained_model_name=<Pretrained Model Name> --save
+```
+
+# Citation
+If you find our work useful, please cite the following paper:
+```bibtex
+@article{YourPaper,
+  author = {Yazdani, Elmira, et al.},
+  title = {Automated segmentation of lesions and organs at risk on [68Ga] Ga-PSMA-11 PET/CT images using self-supervised learning with Swin UNETR},
+  journal = {Cancer Imaging},
+  year = {2024},
+  doi = {[https://doi.org/your-doi-link](https://doi.org/10.1186/s40644-024-00675-x)},
+}
 ```
 
 # Acknowledgement
