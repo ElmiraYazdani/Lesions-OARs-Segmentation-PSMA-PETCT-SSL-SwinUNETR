@@ -44,7 +44,7 @@ If you find our work useful, please cite the following paper:
   title = {Automated segmentation of lesions and organs at risk on [68Ga] Ga-PSMA-11 PET/CT images using self-supervised learning with Swin UNETR},
   journal = {Cancer Imaging},
   year = {2024},
-  doi = {[https://doi.org/your-doi-link](https://doi.org/10.1186/s40644-024-00675-x)},
+  doi = {[https://doi.org/10.1186/s40644-024-00675-x]},
 }
 ```
 
